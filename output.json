@@ -1,0 +1,13 @@
+{
+    "mydict": {
+        "api-key": "78DFE6HH547EEYCDSH",
+        "advertiser_id": 7687456595895678000056556,
+        "publisher_id": 54688796990672547687960000,
+        "curl": "https://example.com/id/1",
+        "header": "python",
+        "base_url": "https://domain.com/user_details",
+        "Request_Method": "GET",
+        "Status_Code": 200,
+        "Content-Type": "Application/Json"
+    }
+}
